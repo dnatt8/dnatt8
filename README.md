@@ -10,7 +10,8 @@
 ## Proyectos
 | Nombre | Descripción | Tecnologías |
 | ---| --- | --- |
-||||
+| [Tres en raya](https://github.com/sebaschg08-crypto/ED_P1_Grupo08) | Proyecto realizado para mi curso de Estructura de Datos, se implementaron diferentes estructuras de datos mediante el lenguaje Java para desarrollar un juego de tres en raya y la interfaz grafica mediante Android Studio. | Java, Android Studio  |
+
 <!--
 **dnatt8/dnatt8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
