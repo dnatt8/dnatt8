@@ -15,6 +15,14 @@
 | [Curriculum Vitae](https://github.com/dnatt8/dawm-cv) | Proyecto realizado como introduccion al manejo basico de HTML y CSS | HTML, CSS |
 | [Feria del Cacao - Landing page](https://github.com/dnatt8/Feria-del-Cacao) | Proyecto realizado para mi curso de Desarrollo Web, consistio en recopilar informacion de primera fuente y editar una plantilla de HTML5 para transmitir los conocimientos obtenidos acerca de la actividad.| HTML, CSS, JavaScript |
 
+<h2>Tecnologías</h2>
+<h3> Utilizadas en proyectos </h3>
+<p align="left">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+</p>
 <!--
 **dnatt8/dnatt8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
