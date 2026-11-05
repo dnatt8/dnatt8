@@ -1,10 +1,11 @@
 <div align="center"> 
 	<h1>Hola, bienvenido a mi perfil</h1>
-	<p>Soy estudiante de <strong>Ciencia de Datos e Inteligencia Artificial</strong>, interesado en el desarrollo de soluciones tecnológicas mediante la programación, el análisis de datos y la inteligencia artificial.<br>
-	Actualmente me encuentro en constante aprendizaje, fortaleciendo mis conocimientos y explorando nuevas herramientas y tecnologías a través de proyectos académicos y personales. <p>
-	<img src="https://github.com/dnatt8/dnatt8/blob/0c0d70f2a42aa0a2f41f3d6aaf82dca9d1a9d9d7/123123qw.jpeg" width="50%" align="center"/>
+	<article id="about-me">
+		<img src="https://github.com/dnatt8/dnatt8/blob/0c0d70f2a42aa0a2f41f3d6aaf82dca9d1a9d9d7/123123qw.jpeg" width="50%"/>
+		<p>Soy estudiante de <strong>Ciencia de Datos e Inteligencia Artificial</strong>, interesado en el desarrollo de soluciones tecnológicas mediante la programación, el análisis de datos y la inteligencia artificial.</p>
+		<p>Actualmente me encuentro en constante aprendizaje, fortaleciendo mis conocimientos y explorando nuevas herramientas y tecnologías a través de proyectos académicos y personales. </p>
+	</article>
 </div>
-
 
 <!--
 **dnatt8/dnatt8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
