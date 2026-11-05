@@ -1,7 +1,7 @@
 <div align="center"> 
+	<img src="https://github.com/dnatt8/dnatt8/blob/0c0d70f2a42aa0a2f41f3d6aaf82dca9d1a9d9d7/123123qw.jpeg" width="50%"/>
 	<h1>Hola, bienvenido a mi perfil</h1>
 	<article id="about-me">
-		<img src="https://github.com/dnatt8/dnatt8/blob/0c0d70f2a42aa0a2f41f3d6aaf82dca9d1a9d9d7/123123qw.jpeg" width="50%"/>
 		<p>Soy estudiante de <strong>Ciencia de Datos e Inteligencia Artificial.</strong></p>
 		<p>Me interesa el desarrollo de soluciones tecnológicas mediante la programación, el análisis de datos y la inteligencia artificial.</p>
 		<p>Actualmente me encuentro en constante aprendizaje, fortaleciendo mis conocimientos y explorando nuevas herramientas y tecnologías a través de proyectos académicos y personales. </p>
