@@ -13,7 +13,7 @@
 | ---| --- | --- |
 | [Tres en raya](https://github.com/sebaschg08-crypto/ED_P1_Grupo08) | Proyecto realizado para mi curso de Estructura de Datos, se implementaron diferentes estructuras de datos mediante el lenguaje Java para desarrollar un juego de tres en raya y la interfaz grafica mediante Android Studio. | Java, Android Studio  |
 | [Curriculum Vitae](https://github.com/dnatt8/dawm-cv) | Proyecto realizado como introduccion al manejo basico de HTML y CSS | HTML, CSS |
-| [Feria del Cacao - Landing page](https://github.com/dnatt8/Feria-del-Cacao) | Proyecto realizado para mi curso de Desarrollo Web, consistio en recopilar informacion de primera fuente y editar una plantilla de HTML5 para transmitir los conocimientos obtenidos acerca de la actividad.| HTML, CSS, JavaScript |
+| [Feria del Cacao - Landing page](https://github.com/dnatt8/Feria-del-Cacao) | Proyecto realizado para mi curso de Desarrollo Web, consistio en recopilar informacion de primera fuente y editar una plantilla de HTML5 para transmitir los conocimientos obtenidos acerca de la actividad.| HTML, CSS |
 
 <h2>Tecnologías</h2>
 <h3> Utilizadas en proyectos </h3>
