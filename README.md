@@ -45,6 +45,10 @@
 		<th> Nombre </th>
 		<th> Objetivo de aprendizaje </th>
 	</tr>
+	<tr>
+		<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
+		<td> Aplicar tipado estático y mejorar la organización del código</td>
+	</tr>
 </table>
 <!--
 **dnatt8/dnatt8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
