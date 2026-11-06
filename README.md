@@ -30,6 +30,10 @@
 		<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
 		<td> Estructuración de documentos mediante etiquetas semánticas </td>
 	</tr>
+	<tr>
+		<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+		<td> Diseño, estilo y distribución de elementos </td>
+	</tr>
 </table>
 <h3> Aprendiendo </h3>
 <p>
