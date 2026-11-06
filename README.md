@@ -49,6 +49,10 @@
 		<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
 		<td> Aplicar tipado estático y mejorar la organización del código</td>
 	</tr>
+	<tr>
+		<td> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
+		<td> Aprender el desarrollo de interfaces mediante componentes</td>
+	</tr>
 </table>
 <!--
 **dnatt8/dnatt8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
