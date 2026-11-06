@@ -34,6 +34,10 @@
 		<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
 		<td> Diseño, estilo y distribución de elementos </td>
 	</tr>
+	<tr>
+		<td> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></td>
+		<td> Desarrollo y ejecución de aplicaciones Android </td>
+	</tr>
 </table>
 <h3> Aprendiendo </h3>
 <p>
