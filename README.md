@@ -8,7 +8,7 @@
 	</article>
 </div>
 
-
+---
 
 ## Proyectos
 
@@ -18,7 +18,7 @@
 | [Curriculum Vitae](https://github.com/dnatt8/dawm-cv) | Proyecto realizado como introduccion al manejo basico de HTML y CSS | HTML, CSS |
 | [Feria del Cacao - Landing page](https://github.com/dnatt8/Feria-del-Cacao) | Proyecto realizado para mi curso de Desarrollo Web, consistio en recopilar informacion de primera fuente y editar una plantilla de HTML5 para transmitir los conocimientos obtenidos acerca de la actividad.| HTML, CSS |
 
-
+---
 
 <h2>Tecnologías</h2>
 <h3> Utilizadas en proyectos </h3>
