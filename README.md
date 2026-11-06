@@ -22,6 +22,10 @@
 		<th> Nombre </th>
 		<th> Conocimientos adquiridos </th>
 	</tr>
+	<tr>
+		<td> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td>
+		<td> Estructura de datos y programación orientada a objetos </td>
+	</tr>
 </table>
 <h3> Aprendiendo </h3>
 <p>
